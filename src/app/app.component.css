@@ -1,0 +1,14 @@
+.container {
+  margin: 6rem;
+}
+
+.clickable:hover {
+  cursor: pointer;
+}
+
+.spinner-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
